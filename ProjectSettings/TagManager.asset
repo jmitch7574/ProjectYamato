@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player/R_Arm
+    uniqueID: 4235857265
+    locked: 0
+  - name: Player/R_Leg
+    uniqueID: 615623193
+    locked: 0
+  - name: Player/Torso
+    uniqueID: 134588827
+    locked: 0
+  - name: Player/L_Leg
+    uniqueID: 2857832521
+    locked: 0
+  - name: Player/Head
+    uniqueID: 4124463955
+    locked: 0
+  - name: Player/L_Arm
+    uniqueID: 952793669
+    locked: 0
+  - name: Player/Gun
+    uniqueID: 1588565819
+    locked: 0
+  m_RenderingLayers:
+  - Default
